@@ -32,3 +32,4 @@ stops.reverse()
 #10 Print out all the stops using a for loop
 for stations in stops:
     print(stations)
+    
